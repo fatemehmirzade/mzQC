@@ -6,7 +6,7 @@ DO-MS	2019	2024	R / Web dashboard	Data-dependent acquisition	Hybrid 	Both ID-bas
 iDIA-QC	2024	2025	Python	Data-independent acquisition	Hybrid 	Both ID-based and ID-free 	Full proteomics	🔧	Comprehensive DIA specific QC tool with AI/ML, expert-validated metrics, diagnostic troubleshooting, multi-vendor validation over 31 months	https://github.com/guomics-lab/iDIA-QC	https://www.nature.com/articles/s41467-024-54871-1				
 iMonDB	2015	2016	Java	Data-independent acquisition	Raw acquisition data	ID-free 	Works for both	🔴	Tool to systematically monitor raw instrument sensor data longitudinally for predictive maintenance complementary to spectral data based QC	https://github.com/bittremieux/iMonDB	https://pubs.acs.org/doi/full/10.1021/acs.jproteome.5b00127				
 InfernoRDN	2008	2021	Windows /.NET + R	"Data-dependent acquisition 
-"	Hybrid 	ID-based with partial ID-free 	Works for both 	🔴	Addresses proteomics specific challenges (missing values, peptide to protein mapping, unbalanced designs) in statistical framework	https://github.com/PNNL-Comp-Mass-Spec/InfernoRDN	https://academic.oup.com/bioinformatics/article/24/13/1556/237714				
+"	Hybrid 	ID-based  	Works for both 	🔴	Addresses proteomics specific challenges (missing values, peptide to protein mapping, unbalanced designs) in statistical framework	https://github.com/PNNL-Comp-Mass-Spec/InfernoRDN	https://academic.oup.com/bioinformatics/article/24/13/1556/237714				
 LFQ_bout	2022	2024	R	"Data-dependent acquisition
 Data-independent acquisition
 "	Hybrid 	ID-based	Full proteomics	🔴	Workflow validation, optimization and cross platform comparison using known standards	https://github.com/t-jumel/LFQb	https://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.3c00531?ref=article_openPDF				
@@ -19,7 +19,7 @@ Data-independent acquisition
 Targeted acquisition"	Raw acquisition data	ID-free	Works for both 	🟢	Multi omics QC tool using standardized mzQC vocabulary with seamless Bioconductor integration	https://github.com/tnaake/MsQuality	https://academic.oup.com/bioinformatics/article/39/10/btad618/7301439				
 MSCohort	2024	2024	Python / Web-based	"Data-dependent acquisition 
 Data-independent acquisition 
-Targeted acquisition "	Hybrid 	ID-based with partial ID-free 	Full proteomics	🔴	The tool providing unified QC framework across DDA, DIA and PRM with cohort-scale analysis	https://github.com/BUAA-LiuLab/MSCohort					
+Targeted acquisition "	Hybrid 	ID-based 	Full proteomics	🔴	The tool providing unified QC framework across DDA, DIA and PRM with cohort-scale analysis	https://github.com/BUAA-LiuLab/MSCohort					
 MQmetrics	2021	2021	R/Bioconductor	"Data-dependent acquisition
 "	Hybrid 	ID-based 	Full proteomics	🔴	MaxQuant specific QC with PDF report generation	https://github.com/svalvaro/MQmetrics					
 PACOM	2017	2022	Java	Data-independent acquisition	Hybrid 	ID-based 	Full proteomics	🔴	Dataset comparison and QC visualization across multiple experiments	https://github.com/smdb21/pacom					
