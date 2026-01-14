@@ -24,8 +24,8 @@ MQmetrics	2021	2021	R/Bioconductor	"Data-dependent acquisition
 "	Hybrid 	ID-based 	Full proteomics	🔴	MaxQuant specific QC with PDF report generation	https://github.com/svalvaro/MQmetrics					
 PACOM	2017	2022	Java	Data-independent acquisition	Hybrid 	ID-based 	Full proteomics	🔴	Dataset comparison and QC visualization across multiple experiments	https://github.com/smdb21/pacom					
 PeakQC	2024	2025	Python	"Data-dependent acquisition
-Data-independent acquisition"	Raw acquisition data	ID-Free	Works for both (multi-omics agnostic)	🔴	Omics agnostic QC tool with comprehensive IMS support and ID-free automated workflow	https://github.com/pnnl/IonToolPack	https://pubs.acs.org/doi/10.1021/jasms.4c00146				
-pmartR	2022	2025	R	Data-dependent acquisition 	Hybrid 	ID-based 	Works for both (multi-omics agnostic)	🔴	Statistical QC and analysis pipeline for multiple omics datatypes	https://github.com/pmartR/pmartR					
+Data-independent acquisition"	Raw acquisition data	ID-Free	Works for both (multi-omics)	🔴	Omics agnostic QC tool with comprehensive IMS support and ID-free automated workflow	https://github.com/pnnl/IonToolPack	https://pubs.acs.org/doi/10.1021/jasms.4c00146				
+pmartR	2022	2025	R	Data-dependent acquisition 	Hybrid 	ID-based 	Works for both (multi-omics)	🔴	Statistical QC and analysis pipeline for multiple omics datatypes	https://github.com/pmartR/pmartR					
 pmultiqc	2023	2025	Python (MultiQC plugin)	"Data-dependent acquisition 
 Data-independent acquisition "	Hybrid 	ID-based 	Full proteomics	🔴	Comprehensive MultiQC plugin for proteomics supporting multiple major pipelines with metadata integration	https://github.com/bigbio/pmultiqc					
 ProteoBench	2023	2025	Python (PyPI package) / Streamlit web app	"Data-dependent acquisition 
@@ -33,7 +33,7 @@ Data-independent acquisition "	Hybrid 	ID-based 	Full proteomics	🔧	Community 
 proteoQC	2017	2020	R/Bioconductor	"Data-dependent acquisition 
 "	Identification results	ID-based	Full proteomics	🔴		https://github.com/wenbostar/proteoQC					
 PTXQC	2016	2025	R/Bioconductor	Data-dependent acquisition	Hybrid	ID-based	Full proteomics	🟢	Comprehensive MaxQuant specific QC with automated scoring, MBR validation and interactive HTML reports	https://github.com/cbielow/PTXQC	https://pubs.acs.org/doi/10.1021/acs.jproteome.5b00780				
-QC-ART	2018	2018	R	Data-dependent acquisition	Hybrid 	ID-based	Works for both (multi-omics capable)	🔴	Real time QC with dynamic linear modeling that adapts to normal instrument drift while flagging true anomalies	https://github.com/stanfill/QC-ART-Web-App	https://pmc.ncbi.nlm.nih.gov/articles/PMC6126382/				
+QC-ART	2018	2018	R	Data-dependent acquisition	Hybrid 	ID-based	Works for both (multi-omics)	🔴	Real time QC with dynamic linear modeling that adapts to normal instrument drift while flagging true anomalies	https://github.com/stanfill/QC-ART-Web-App	https://pmc.ncbi.nlm.nih.gov/articles/PMC6126382/				
 QCCalculator	2019	2020	Python	Data-dependent acquisition	Hybrid 	Both ID-based and ID-free 	Full proteomics	🟢	Python based QC calculator with native mzQC standard compliance and modular extensibility	https://github.com/bigbio/qccalculator					
 QCactus	2023	2025	C# / .NET	Data-independent acquisition	Hybrid 	Both ID-based and ID-free 	Full proteomics	🔴	DIA specific desktop QC tool with embedded MSFragger for rapid pre processing quality assessment	https://github.com/csmc-vaneykjlab/qcactus	https://www.researchgate.net/publication/387963026_QCactus_interactive_quality_control_software_for_statistical_analysis_and_reporting_metrics_of_raw_proteomics_data				
 QCeltis	2024	2025	Python	Data-independent acquisition 	Hybrid	Both ID-based and ID-free	Full proteomics	🔴	Comprehensive large scale DIA QC with batch/plate comparison and extensive group wise analysis capabilities	https://github.com/csmc-vaneykjlab/Qceltis					
